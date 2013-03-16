@@ -1,0 +1,45 @@
+G:\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.exe
+G:\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.pdb
+G:\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.xml
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.BMI.resources
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.Resources.resources
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.exe
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.xml
+G:\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.pdb
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.exe
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.xml
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.pdb
+G:\RAD\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.exe
+G:\RAD\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.pdb
+G:\RAD\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.xml
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.BMI.resources
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.Resources.resources
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\RAD\MidtermTest1\MidtermTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.exe
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.xml
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.pdb
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.exe
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.pdb
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.xml
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.BMI.resources
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.Resources.resources
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GCStudent\Desktop\MidtermTest1\MidtermTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.exe
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.xml
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.pdb
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.exe
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.pdb
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\bin\Debug\MidtermTest1.xml
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.BMI.resources
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.Resources.resources
+E:\georgian stuff\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\BMI calculator desktop application.vbproj.GenerateResource.Cache
+E:\georgian stuff\sem 1\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.exe
+E:\georgian stuff\sem 1\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.xml
+E:\georgian stuff\sem 1\Rapid Application Development\MidtermTest1\MidtermTest1\MidtermTest1\obj\x86\Debug\MidtermTest1.pdb
